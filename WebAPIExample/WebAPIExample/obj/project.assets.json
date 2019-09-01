@@ -13087,11 +13087,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\source\\repos\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\Documents\\GitHub\\.NetCoreWepAPIAndSwagger\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
       "projectName": "WebAPIExample",
-      "projectPath": "C:\\Users\\MSI\\source\\repos\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
+      "projectPath": "C:\\Users\\MSI\\Documents\\GitHub\\.NetCoreWepAPIAndSwagger\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\source\\repos\\WebAPIExample\\WebAPIExample\\obj\\",
+      "outputPath": "C:\\Users\\MSI\\Documents\\GitHub\\.NetCoreWepAPIAndSwagger\\WebAPIExample\\WebAPIExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
